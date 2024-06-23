@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @misbah-ul-hoq
+- 👋 Hi, I’m Misbah Ul Hoq
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front End Development 
 - 💞️ I’m looking to collaborate on Front End Development Projects created with React. 
-- 📫 How to reach me {Will come later}
+- 📞 +8801521377999
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
