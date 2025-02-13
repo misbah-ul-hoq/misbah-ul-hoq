@@ -1,10 +1,19 @@
-- 👋 Hi, I’m Misbah Ul Hoq
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Development 
-- 💞️ I’m looking to collaborate on Front End Development Projects created with React. 
-- 📞 +8801521377999
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there, I'm Md Mezbah Uddin 👋  
+
+🚀 **MERN Stack Developer | Full stack Developer**  
+
+💡 Passionate about building scalable full stack web applications and optimizing performance.  
+🎯 Currently working on **React, Next.js, MongoDB, NodeJS, ExpressJS**.  
+📚 Learning **React Native & Devops**.  
+🛠️ Tech Stack:  
+- **Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS, daisyUI  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **DevOps:** Docker, Vercel  
+- **Other:** TypeScript, React Hook Form, Firebase, Jest 
+
+📌 **Portfolio:** [(https://misbahulhoq.vercel.app/)]  
+📩 **Let's connect:** [LinkedIn]((https://www.linkedin.com/in/misbahulhoq/))  
+
 
 <!---
 misbah-ul-hoq/misbah-ul-hoq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
