@@ -11,7 +11,7 @@
 - **DevOps:** Docker, Vercel  
 - **Other:** TypeScript, React Hook Form, Firebase, Jest 
 
-📌 **Portfolio:** (https://misbahulhoq.vercel.app/) 
+📌 **Portfolio:** https://misbahulhoq.vercel.app/
 📩 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/misbahulhoq/)
 
 
